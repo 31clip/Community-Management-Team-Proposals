@@ -41,8 +41,8 @@ To provide sustained funding to the Moderators Community Team, enabling them to 
 ## Community Growth
 The last 2 months saw a rapid increase in Discord and Telegram users. While this growth has leveled off, the Community Team has continued to expand in structure and reach. We expect the growth to continue and we are ready to welcome new coming members in the community:
 
-Discord:
-![Screenshot 2025-06-13 at 15 12 13](https://github.com/user-attachments/assets/0c6fa2cd-75e5-4691-9def-cefa077f3a67) Telegram:
+**Discord:**
+![Screenshot 2025-06-13 at 15 12 13](https://github.com/user-attachments/assets/0c6fa2cd-75e5-4691-9def-cefa077f3a67) **Telegram:**
 ![Screenshot 2025-06-13 at 14 51 18](https://github.com/user-attachments/assets/ca1d15e2-71fa-4ca4-be9c-4a22fd7610ca)
 
 ## Governance
