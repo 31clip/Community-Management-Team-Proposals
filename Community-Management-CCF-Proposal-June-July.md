@@ -99,7 +99,7 @@ A:
 > **我们衷心感谢以下志愿者的贡献：Tom、Zoxx、Pomm3sgab3l、Frog-Rabbit、Jgvks、Drac0702、Jortxjortx 以及 Discord 和 Telegram 上的其他贡献者。**
 
 ## 结语
-社区团队已实现结构独立，推动了规则更新，并扩展至新的区域和服务。继续资助将有助于团队应对不断增长的需求，并保持 Qubic 社区的安全性、参与度和治理标准。
+社区团队已实现结构独立，推动了规则更新，并扩展至新的区域和服务。继续资助将有助于团队应对不断增长的需求，并保持 Qubic 社区的安全性、参与度和治理标准。由于价格表现良好而产生的任何超额部分，将用于在提案约定期限之外继续资助社区团队。
 
 ### 我们恳请 Quorum 成员支持本次资金提案。
 </details>
@@ -202,6 +202,6 @@ A:
 
 
 ## Closing
-The Community Team has achieved structural independence, implemented critical updates to the rules, and expanded its activity to new regions and services. Continued funding will allow the team to meet growing demands and maintain Qubic's standard for safety, engagement, and governance.
+The Community Team has achieved structural independence, implemented critical updates to the rules, and expanded its activity to new regions and services. Continued funding will allow the team to meet growing demands and maintain Qubic's standard for safety, engagement, and governance. Any excess resulting from positive price performance will be used to continue funding the Community Team beyond the period agreed upon in the proposal.
 
 ### We respectfully request the Quorum’s support for this funding proposal.
