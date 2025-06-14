@@ -1,3 +1,15 @@
+
+
+
+# Community Management CCF Proposal
+
+Send 20 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management. The Qubic amount was calculated using a valuation of 1600 USDT per billion.
+
+### Available Options:
+> **Option 0**: No, I don’t want  
+
+> **Option 1**: Yes, approve the budget of 20 bln QUBIC.
+
 ## 简体中文版
 <details>
 <summary> 点击展开查看中文版本 </summary>
@@ -103,16 +115,6 @@ A:
 
 ### 我们恳请 Quorum 成员支持本次资金提案。
 </details>
-
-
-# Community Management CCF Proposal
-
-Send 20 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management. The Qubic amount was calculated using a valuation of 1600 USDT per billion.
-
-### Available Options:
-> **Option 0**: No, I don’t want  
-
-> **Option 1**: Yes, approve the budget of 20 bln QUBIC.
 
 ## What Is Community Management
 The Community Management Team moderates the Qubic Discord server and Telegram channels and supports several regional and multilingual hubs. While the core team is composed of designated moderators and coordinators, it also relies on volunteers. Together they make up a team of approximately 18 members.
