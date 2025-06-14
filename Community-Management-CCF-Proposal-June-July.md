@@ -75,6 +75,9 @@ A: 社区 Quorum 已批准以下提案：
 - [社区团队独立性提案](https://github.com/user-attachments/files/20735892/Proposal.Independence.for.the.Community.Team.2.pdf)  
 - [社区规则修订提案](https://github.com/user-attachments/files/20735895/Case.Rules.revision.4.pdf)
 
+### Q：我们采取了哪些措施来应对价格波动？
+A：我们采用了一种基于价格区间的**动态薪资模型**。这是一个三等级的薪资系统，根据代币价格调整报酬。当价格低于设定阈值时，薪资会相应减少；当价格回升时，薪资也会相应恢复至较高水平。该模型将薪酬与市场表现挂钩，有助于在低迷期控制预算，并在增长期给予奖励。
+
 ### Q: 社区团队成员有哪些人？
 A:
 
@@ -173,6 +176,9 @@ A: While the team is currently stable, volunteer participation is appreciated an
 > Please note: The following answer contains PDF links that will be downloaded to your device when clicked.
 
 A: The Community Quorum served to approve the [Community Team Proposal](https://github.com/user-attachments/files/20735890/Community.Team.Proposal.8.pdf) , the [Independence for the Community Team Proposal](https://github.com/user-attachments/files/20735892/Proposal.Independence.for.the.Community.Team.2.pdf) and the [Rules revision Proposal](https://github.com/user-attachments/files/20735895/Case.Rules.revision.4.pdf)
+
+### Q. What measures are in place to face volatility?
+A: We apply a a **dynamic salary model** based on price tiers. A 3-level salary system adjusts compensation based on token price. If the price drops below set thresholds, salaries are reduced accordingly. If the price rises again, salaries are restored to higher levels. This model aligns compensation with market performance. It helps manage budget during downturns and rewards during growth.
 
 ### Q. Who is part of The Community Team?
 A:
