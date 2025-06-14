@@ -4,12 +4,12 @@
  
 # 社区管理 CCF 提案
 
-向钱包 COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI 转账 XXXX 亿 QUBIC，用于支持社区管理。该 Qubic 金额按每十亿 XXXX USDT 的估值计算。
+向钱包 COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI 转账 20 亿 QUBIC，用于支持社区管理。该 Qubic 金额按每十亿 1600 USDT 的估值计算。
 
 ### 可选项：
 > **选项 0**：不支持
 
-> **选项 1**：支持，批准 **** 亿 QUBIC 的预算。
+> **选项 1**：支持，批准 20 亿 QUBIC 的预算。
 
 ## 什么是社区管理
 社区管理团队负责管理 Qubic 的 Discord 服务器和 Telegram 频道，并支持多个区域性和多语言社群。核心团队由指定的管理员和协调员组成，同时也依赖志愿者支持。整个团队共有约 18 名成员。
@@ -102,12 +102,12 @@ A:
 
 # Community Management CCF Proposal
 
-Sent XXXX billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management. The Qubic amount was calculated using a valuation of XXXX USDT per billion.
+Sent 20 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management. The Qubic amount was calculated using a valuation of 1600 USDT per billion.
 
 ### Available Options:
 > **Option 0**: No, I don’t want  
 
-> **Option 1**: Yes, approve the budget of ****bln QUBIC.
+> **Option 1**: Yes, approve the budget of 20 bln QUBIC.
 
 ## What Is Community Management
 The Community Management Team moderates the Qubic Discord server and Telegram channels and supports several regional and multilingual hubs. While the core team is composed of designated moderators and coordinators, it also relies on volunteers. Together they make up a team of approximately 18 members.
