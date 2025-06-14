@@ -86,7 +86,9 @@ A:
 |Toddlize|(Paid)|
 |Xarkur|(Paid)|
 
-### We truly appreciate the contribution of: Tom, Zoxx, Pomm3sgab3l, Frog-Rabbit, Jgvks, Drac0702, Jortxjortx, and other voluntary contributors in Discord and Telegram.
+> [!NOTE]
+> **We truly appreciate the voluntarycontribution of: Tom, Zoxx, Pomm3sgab3l, Frog-Rabbit, Jgvks, Drac0702, Jortxjortx, and other contributors in Discord and Telegram.**
+
 
 ## Closing
 The Community Team has achieved structural independence, implemented critical updates to the rules, and expanded its activity to new regions and services. Continued funding will allow the team to meet growing demands and maintain Qubic's standard for safety, engagement, and governance.
