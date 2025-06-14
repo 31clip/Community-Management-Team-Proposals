@@ -84,7 +84,7 @@ A:
 |Satoshi|(Paid)|
 |Doge|(Paid)|
 |Toddlize|(Paid)|
-|Xarkur|(Paid)|
+|Xarkur|Starting June(Paid)|
 
 > [!NOTE]
 > **We truly appreciate the voluntarycontribution of: Tom, Zoxx, Pomm3sgab3l, Frog-Rabbit, Jgvks, Drac0702, Jortxjortx, and other contributors in Discord and Telegram.**
