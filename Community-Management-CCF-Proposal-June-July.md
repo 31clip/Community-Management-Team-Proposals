@@ -64,6 +64,9 @@ A: Approximately 18 members including moderators, volunteers, and regional contr
 ### Q: Are volunteers still needed?
 A: While the team is currently stable, volunteer participation is appreciated and evaluated on a case-by-case basis.
 ### Q: What are the 3 proposals approved by the Community Quorum until now?
+> [!WARNING]
+> Please note: The following answer contains PDF links that will be downloaded to your device when clicked.
+
 A: The Community Quorum served to approve the [Community Team Proposal](https://github.com/user-attachments/files/20735890/Community.Team.Proposal.8.pdf) , the [Independence for the Community Team Proposal](https://github.com/user-attachments/files/20735892/Proposal.Independence.for.the.Community.Team.2.pdf) and the [Rules revision Proposal](https://github.com/user-attachments/files/20735895/Case.Rules.revision.4.pdf)
 
 ### Q. Who is part of The Community Team?
