@@ -53,6 +53,8 @@
 * 通过公开投票和社区反馈机制不断更新指南与政策
 
 ## 预算细则
+![Screenshot 2025-06-14 at 19 20 17](https://github.com/user-attachments/assets/d3bc0bec-0e53-41d3-86e2-844a6a72ed79)
+
 
 ## FAQ
 ### Q: 谁是社区团队的负责人？
@@ -155,6 +157,7 @@ In the last two months was introduced a clearer governance structure for the Com
 * Guidelines and moderation policies are evolving through community feedback, in public polls, and community quorum mechanisms.
 
 ## Budget breakdown
+![Screenshot 2025-06-14 at 19 20 17](https://github.com/user-attachments/assets/aac4a921-71f6-4c5a-a3bc-4b6b787fa785)
 
 
 
