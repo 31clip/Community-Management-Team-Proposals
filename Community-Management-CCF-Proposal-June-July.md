@@ -198,7 +198,7 @@ A:
 |Xarkur|Starting June(Paid)|
 
 > [!NOTE]
-> **We truly appreciate the voluntarycontribution of: Tom, Zoxx, Pomm3sgab3l, Frog-Rabbit, Jgvks, Drac0702, Jortxjortx, and other contributors in Discord and Telegram.**
+> **We truly appreciate the voluntary contribution of: Tom, Zoxx, Pomm3sgab3l, Frog-Rabbit, Jgvks, Drac0702, Jortxjortx, and other contributors in Discord and Telegram.**
 
 
 ## Closing
