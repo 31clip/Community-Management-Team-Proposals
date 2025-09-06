@@ -58,10 +58,10 @@ Send 24 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFAT
 在过去三个月中，我们观察到 Discord 和 Telegram 用户数量迅速增长——Discord 的增长较为稳定，而 Telegram 的增长比例更大。尽管整体增长开始趋于平稳，社区团队在结构和覆盖范围上仍在持续扩展。我们预计增长将持续，尤其是在 Telegram 上，由于其当前规模较小，潜力更大。团队已做好充分准备迎接新加入的社区成员，并预计随着牛市可能到来，用户数量将显著增加。
 
 **Discord:**![Screenshot 2025-09-06 at 19.44.23.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-09-06%20at%2019.44.23.png)
-  ![D2](https://github.com/user-attachments/assets/3a837d26-a857-45d0-9bff-1482f14f47ba)
+ ![Screenshot 2025-09-06 at 19.44.42.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-09-06%20at%2019.44.42.png)
 
 **Telegram:**  
-![T](https://github.com/user-attachments/assets/9f94fd3f-d422-429d-a6f4-ab5815d87ef0)
+![Screenshot 2025-09-06 at 19.51.17.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-09-06%20at%2019.51.17.png)
 
 
 ## 治理
@@ -71,7 +71,7 @@ Send 24 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFAT
 * 指导方针和版务政策已通过社区反馈、公开投票和全体表决机制不断演进。随着生态系统提供的投票应用即将上线，将进行更多投票。
 
 ## 预算明细
-![Budget](https://github.com/user-attachments/assets/f7d8d352-f4bc-4563-ba58-bcdb63e4f350)
+![Screenshot 2025-09-06 at 19.54.15.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-09-06%20at%2019.54.15.png)
 
 
 ## 常见问题
@@ -163,10 +163,10 @@ Due to the price increase, we managed to cover one additional month, August, wit
 Over the past three months, we have observed a rapid increase in Discord and Telegram users, growth has been steadier on Discord, while proportionally larger on Telegram. Although overall growth has begun to stabilize, the Community Team has continued to expand both in structure and reach. We anticipate continued growth, particularly on Telegram, where there is greater potential due to its smaller current size. The team is fully prepared to welcome new community members and expects user numbers to rise substantially with the potential onset of a bull market.
 
 **Discord:**![Screenshot 2025-09-06 at 19.44.23.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-09-06%20at%2019.44.23.png)
-  ![D2](https://github.com/user-attachments/assets/3a837d26-a857-45d0-9bff-1482f14f47ba)
+   ![Screenshot 2025-09-06 at 19.44.42.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-09-06%20at%2019.44.42.png)
 
 **Telegram:**  
-![T](https://github.com/user-attachments/assets/9f94fd3f-d422-429d-a6f4-ab5815d87ef0)
+![Screenshot 2025-09-06 at 19.51.17.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-09-06%20at%2019.51.17.png)
 
 
 ## Governance
@@ -176,7 +176,7 @@ In the last months was introduced a clearer governance structure for the Communi
 * Guidelines and moderation policies have evolved through community feedback, in public polls, and community quorum mechanisms. More polls are expected once the polls app, provided by ecosystem, is released shortly
 
 ## Budget breakdown
-![Budget](https://github.com/user-attachments/assets/f7d8d352-f4bc-4563-ba58-bcdb63e4f350)
+![Screenshot 2025-09-06 at 19.54.15.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-09-06%20at%2019.54.15.png)
 
 
 
