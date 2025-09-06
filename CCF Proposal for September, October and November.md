@@ -57,7 +57,7 @@ Send 24 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFAT
 ## 社区增长
 在过去三个月中，我们观察到 Discord 和 Telegram 用户数量迅速增长——Discord 的增长较为稳定，而 Telegram 的增长比例更大。尽管整体增长开始趋于平稳，社区团队在结构和覆盖范围上仍在持续扩展。我们预计增长将持续，尤其是在 Telegram 上，由于其当前规模较小，潜力更大。团队已做好充分准备迎接新加入的社区成员，并预计随着牛市可能到来，用户数量将显著增加。
 
-**Discord:**![D1](https://github.com/user-attachments/assets/55bd1953-95d6-4088-9a93-3d12d36e9e67)
+**Discord:**![D1](Screenshot 2025-09-06 at 19.44.23.png)
   ![D2](https://github.com/user-attachments/assets/3a837d26-a857-45d0-9bff-1482f14f47ba)
 
 **Telegram:**  
