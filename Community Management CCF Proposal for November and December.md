@@ -71,7 +71,7 @@ Send 23.3 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZF
 * 社区指南与管理政策通过社区反馈、公开投票和社区 Quorum 讨论不断演进。随着社区的成熟，我们希望投票能够成为制定和调整社交媒体共享框架的合法工具。为此，生态团队即将推出基于 Qubic 质押的新投票应用，以更好反映社区意见。
 
 ## 预算明细
-![Screenshot 2025-09-06 at 19.54.15.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-11-22%20at%2017.47.00.png)
+![Screenshot 2025-09-06 at 19.54.15.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-11-22%20at%2019.36.56.png)
 
 ## 常见问题（FAQ）
 ### Q: 谁领导社区团队？
@@ -173,7 +173,7 @@ In recent months, the governance structure based on the Community Quorum has bee
 * Guidelines and moderation policies have evolved through community feedback, public polls, and Community Quorum discussions. As the community matures, we aim to make polls a legitimate tool for shaping and adapting the shared framework across our social networks. In this regard, a new polling application will soon be released by the ecosystem team to help better reflect community sentiment based on Qubic stake.
 
 ## Budget breakdown
-![Screenshot 2025-09-06 at 19.54.15.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-11-22%20at%2017.47.00.png)
+![Screenshot 2025-09-06 at 19.54.15.png](https://github.com/31clip/Community-Management-Team-Proposals/blob/main/Screenshot%202025-11-22%20at%2019.36.56.png)
 
 ## FAQ
 ### Q: Who leads the Community Team?
