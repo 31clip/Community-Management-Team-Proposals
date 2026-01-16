@@ -112,23 +112,6 @@ Proposals 和 Community 板块也采用了类似结构。通过这些变化，�
 <summary>接下来哪些区域社区可能加入社区团队？</summary>
 <br/>由于价格因素，我们暂缓扩张计划。潜在加入的社区包括俄罗斯和法国。<br/><br/>
 </details>
-|社区管理成员|状态|
-| ---------|------------|
-|El_Clip（工作组负责人）|（领取薪酬）|
-|Salar|（领取薪酬） |
-|Braven|（领取薪酬）|
-|Rayyan|（领取薪酬）|
-|Hash|（领取薪酬）|
-|Yigit|（领取薪酬）|
-|Gandalf|（领取薪酬）|
-|Satoshi|（领取薪酬）|
-|Doge|（领取薪酬）|
-|Toddlize|（领取薪酬）|
-|Xarkur|（领取薪酬）|
-|Jgvks|（领取薪酬）|
-|西班牙 TG 版主|（领取薪酬）|
-> [!NOTE]
-> **我们衷心感谢以下志愿者的贡献：Tom、Zoxx、Pomm3sgab3l、Frog-Rabbit，以及其他在 Discord 和 Telegram 作出贡献的成员。**
 
 ## 结语
 社区团队已实现结构性独立，并寻求去中心化资金支持以确保决策自主性。持续的资金将使团队能够满足日益增长的需求，并维持 Qubic 在安全性、参与度和治理方面的标准。若价格上涨导致预算有盈余，将用于延长社区团队的运营时间。
@@ -228,25 +211,7 @@ While the authority to define and amend rules remains with the Community Quorum,
 <summary>Which are the coming regional communities to join the Community Team?</summary>
 <br/>While we keep our expansion intentions on hold, due to the price behaviour, the coming communities potentially joining the Community Team are the Russian and French.<br/><br/>
 </details>
-### Q: Who is part of The Community Team?
-A:
-|COMMUNITY MANAGEMENT|Status|
-| ---------|------------|
-|El_Clip(Workgroup Lead)| (Paid)|
-|Salar|(Paid) |
-|Braven|(Paid)|
-|Rayyan|(Paid)|
-|Hash|(Paid)|
-|Yigit|(Paid)|
-|Gandalf|(Paid)|
-|Satoshi|(Paid)|
-|Doge|(Paid)|
-|Toddlize|(Paid)|
-|Xarkur|(Paid)|
-|Jgvks|(Paid)|
-|Spanish TG Moderators|(Paid)|
-> [!NOTE]
-> ** We truly appreciate the voluntary contribution of: Tom, Zoxx, Pomm3sgab3l, Frog-Rabbit, and other contributors in Discord and Telegram.**
+<summary>Who is part of The Community Team?<summary>
 
 ## 📌 Closing
 
