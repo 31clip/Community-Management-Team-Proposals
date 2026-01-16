@@ -1,10 +1,10 @@
 # Community Management CCF Proposal for January and February
 
-Send (000) billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the months of January and February. The Qubic amount was calculated using a valuation of (000) USDT per billion.
+Send 32.14 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the months of January and February. The Qubic amount was calculated using a valuation of 700 USDT per billion.
 
 ### 🗳️ Available Options:
 > **Option 0**: ❌ No, I don’t want  
-> **Option 1**: ✅ Yes, approve the budget of (XXX) bln QUBIC.
+> **Option 1**: ✅ Yes, approve the budget of 32.14 bln QUBIC.
 
 ## 👥 What Is Community Management?
 The Community Management Team moderates the Qubic Discord server and Telegram channels and supports several regional and multilingual hubs. Community Management acts as a stabilizing layer between protocol development, governance and community participants. It also brings support to other workgroups in the ecosystem. While the core team is composed of designated moderators and community support, it also relies on volunteers. Together they make up a team of more than 18 members.
@@ -13,11 +13,14 @@ The Community Management Team moderates the Qubic Discord server and Telegram ch
 <br/>🤝 Welcoming and onboarding new members
 <br/>🛡️ Enforcing community rules
 <br/>💬 Promoting constructive discussions
+<br/>🎓 Providing internal training
 <br/>🔧 Enhancing problem resolution among other workgroups
 
 ## 🔍 How We Used Past Funding during the last 2 months ## 
 Due to market conditions and price fluctuations, the Community Team applied its dynamic compensation model to remain within the allocated budget. Despite these adjustments, operations on Discord and Telegram continued uninterrupted, with a full focus on core moderation, governance support, and community safety.
-Additionally, with the support of the Admins, we have redesigned the channel structure, improving navigability and better organizing discussions.
+
+Additionally, with the support of the Administrators, we have redesigned the channel structure, improving navigability and better organizing discussions.
+
 Funding during this period enabled the Community Management Team to maintain a safe, fair, and engaging environment across the Qubic ecosystem. This included continuous moderation, community engagement, policy enforcement, support for other workgroups, multilingual assistance and documentation across Discord and Telegram.
 
 ## 🛠️ Achievements and Implementations
@@ -41,9 +44,9 @@ With a stable moderation framework and a well-defined server structure now in pl
 
 ## 🏛️ Governance
 In recent months, the governance structure based on the Community Quorum has been consolidating its importance.
-We are encouraged by the growing use of the #community-team channel, where an increasing number of discussions and disagreements are being constructively resolved through open dialogue rather than escalation. Reflects a healthier communication culture and a stronger sense of shared responsibility within the ecosystem.
+We are encouraged by the growing use of the **#community-team** channel, where an increasing number of discussions and disagreements are being constructively resolved through open dialogue rather than escalation. Reflects a healthier communication culture and a stronger sense of shared responsibility within the ecosystem.
 
-In parallel, work is underway to introduce a new feedback structure accessible outside of Discord and Telegram, allowing community members to submit structured feedback directly to the Community Management Team. This initiative aims to lower participation barriers, improve inclusivity and strengthen the feedback loop between governance, moderation and the wider community. Development of this structure is ongoing.
+In parallel, work is underway to introduce a **new feedback structure** accessible outside of Discord and Telegram, allowing community members to submit structured feedback directly to the Community Management Team. This initiative, implemented thanks to the Core Tech team, aims to lower participation barriers, improve inclusivity and strengthen the feedback loop between governance, moderation and the wider community. Development of this structure is ongoing.
 
 While the authority to define and amend rules remains with the Community Quorum, broader community participation is facilitated through polls that capture collective sentiment—particularly in sensitive or debated situations. Community Management plays a key execution role by translating governance outcomes into consistent moderation practices and clear communication across Discord and Telegram.
 
