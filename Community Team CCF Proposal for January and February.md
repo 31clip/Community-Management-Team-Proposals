@@ -211,7 +211,6 @@ While the authority to define and amend rules remains with the Community Quorum,
 <summary>Which are the coming regional communities to join the Community Team?</summary>
 <br/>While we keep our expansion intentions on hold, due to the price behaviour, the coming communities potentially joining the Community Team are the Russian and French.<br/><br/>
 </details>
-<summary>Who is part of The Community Team?<summary>
 
 ## 📌 Closing
 
