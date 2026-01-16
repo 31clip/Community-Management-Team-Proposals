@@ -228,7 +228,9 @@ While the authority to define and amend rules remains with the Community Quorum,
 <summary>Which are the coming regional communities to join the Community Team?</summary>
 <br/>While we keep our expansion intentions on hold, due to the price behaviour, the coming communities potentially joining the Community Team are the Russian and French.<br/><br/>
 </details>
+
 ## 📌 Closing
+
 The Community Team has achieved structural independence, and asks for decentralised funding to ensure the autonomy on the decisions making. Continued funding will allow the team to meet growing demands and maintain Qubic's standard for safety, engagement, and governance. Any excess resulting from positive price performance will be used to continue funding the Community Team beyond the period agreed upon in the proposal.
 
 ### We respectfully request the Quorum’s support for this funding proposal.
