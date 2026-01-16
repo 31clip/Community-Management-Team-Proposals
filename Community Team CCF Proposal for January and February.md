@@ -185,8 +185,7 @@ While the authority to define and amend rules remains with the Community Quorum,
 ## 🧾 Budget breakdown
 |CONCEPTS|JANUARY|VALUE IN $QUBIC|FEBRUARY|VALUE IN $QUBIC|TOTAL VALUE IN $QUBIC|
 |------------|------------|------------|------------|------------|------------|
-|**Salaries**|$11250| 000 Billion $QUBIC|$11250|000 Billion $QUBIC| 000 Billion $QUBIC|
-|**TOTAL**|$11250| 000 Billion $QUBIC|$11250|000 Billion $QUBIC| 000 Billion $QUBIC|
+|**Salaries**|$11250| 16.07 Billion $QUBIC|$11250|16.07 Billion $QUBIC| 32.14 Billion $QUBIC|
 
 **Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below.**
 
