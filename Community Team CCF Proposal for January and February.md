@@ -20,7 +20,7 @@ Send 32.14 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZ
 > **选项 1**：同意，批准 32.14 亿 QUBIC 的预算。
   
   ## 👥 什么是社区管理？  
-社区管理团队负责管理 Qubic 的 Discord 服务器和 Telegram 频道，并支持多个区域和多语言的分支。社区管理在协议开发、治理和社区成员之间起到稳定层的作用，同时为生态系统内的其他工作组提供支持。核心团队由指定的版主和社区支持人员组成，但也依赖志愿者。团队总人数超过 18 人。  
+社区管理团队负责管理 Qubic 的 Discord 服务器和 Telegram 频道，并支持多个区域和多语言的分支。社区管理在协议开发、治理和社区成员之间起到稳定层的作用，同时为生态系统内的其他工作组提供支持。核心团队由指定的版主和社区支持人员组成，但也依赖志愿者。团队总人数超过 20 人。  
 
 **他们的职责包括：**  
 <br/>🤝 欢迎并引导新成员  
@@ -77,7 +77,7 @@ Proposals 和 Community 板块也采用了类似结构。通过这些变化，�
 <br/><br/>月度薪资支出已从 **$16K** 降至 **$11K**，约 **30% 减少**，以应对当前 PA 条件。  
 
 > [!IMPORTANT]  
-> *我们已连续一年每周为社区举办活动。服务器约有 ~60,000 名成员，总活跃参与率约 0.03–0.17%。活动包括每周游戏之夜、知识问答夜，以及基于项目重大事件的偶尔活动。活动和预算已暂停。<br/>(过去 3 个月花费 $1080 价值的 $QUBIC)  
+> 我们已连续一年每周为社区举办活动。服务器约有 ~60,000 名成员，总活跃参与率约 0.03–0.17%。活动包括每周游戏之夜、知识问答夜，以及基于项目重大事件的偶尔活动。活动和预算已暂停。<br/>(过去 3 个月花费 $1080 价值的 $QUBIC)  
 <br/><br/>社区团队将暂停活动以进行刷新。我们发现部分人存在恶意行为，仅图索取而未对项目其他方面提供价值。我们高度重视真实支持和参与，此次暂停有助于筛选。计划在今年晚些时候继续活动，并开放新形式和类型的活动。  
 
 ## ❓ 常见问题  
@@ -120,7 +120,7 @@ Proposals 和 Community 板块也采用了类似结构。通过这些变化，�
 </details>
 
 ## 👥 What Is Community Management?
-The Community Management Team moderates the Qubic Discord server and Telegram channels and supports several regional and multilingual hubs. Community Management acts as a stabilizing layer between protocol development, governance and community participants. It also brings support to other workgroups in the ecosystem. While the core team is composed of designated moderators and community support, it also relies on volunteers. Together they make up a team of more than 18 members.
+The Community Management Team moderates the Qubic Discord server and Telegram channels and supports several regional and multilingual hubs. Community Management acts as a stabilizing layer between protocol development, governance and community participants. It also brings support to other workgroups in the ecosystem. While the core team is composed of designated moderators and community support, it also relies on volunteers. Together they make up a team of more than 20 members.
 
 **Their role include:**
 <br/>🤝 Welcoming and onboarding new members
@@ -176,7 +176,7 @@ While the authority to define and amend rules remains with the Community Quorum,
 <br/><br/>Monthly salary expenses have been reduced from **$16K** to **$11K**, representing an approximate **30% reduction** in response to current PA conditions.
 
 > [!IMPORTANT]
-> *We have been hosting consistent weekly fun activities for the community for more than a year. The server has approximately ~60,000 members, with ~0.03–0.17% active participation of the total server size. Activities include/included weekly game nights, quiz nights, and occasional activities based on major events around the project. Activities have been paused as well as the allocated budget. <br/>(Amount spent in last 3 months $1080 worth of $QUBIC)
+> We have been hosting consistent weekly fun activities for the community for more than a year. The server has approximately ~60,000 members, with ~0.03–0.17% active participation of the total server size. Activities include/included weekly game nights, quiz nights, and occasional activities based on major events around the project. Activities have been paused as well as the allocated budget. <br/>(Amount spent in last 3 months $1080 worth of $QUBIC)
 <br/><br/>The community team will be taking a break from hosting activities to get a new refresh. There were some malicious practices detected from a group of people aiming only to extract and not providing value in any of the other aspects of the project. We highly value true support and engagement so this pause will help us in filtering. We plan to continue these later this year and even open to new ideas and type of activities
 
 ## ❓FAQ
