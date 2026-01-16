@@ -228,6 +228,25 @@ While the authority to define and amend rules remains with the Community Quorum,
 <summary>Which are the coming regional communities to join the Community Team?</summary>
 <br/>While we keep our expansion intentions on hold, due to the price behaviour, the coming communities potentially joining the Community Team are the Russian and French.<br/><br/>
 </details>
+### Q: Who is part of The Community Team?
+A:
+|COMMUNITY MANAGEMENT|Status|
+| ---------|------------|
+|El_Clip(Workgroup Lead)| (Paid)|
+|Salar|(Paid) |
+|Braven|(Paid)|
+|Rayyan|(Paid)|
+|Hash|(Paid)|
+|Yigit|(Paid)|
+|Gandalf|(Paid)|
+|Satoshi|(Paid)|
+|Doge|(Paid)|
+|Toddlize|(Paid)|
+|Xarkur|(Paid)|
+|Jgvks|(Paid)|
+|Spanish TG Moderators|(Paid)|
+> [!NOTE]
+> ** We truly appreciate the voluntary contribution of: Tom, Zoxx, Pomm3sgab3l, Frog-Rabbit, and other contributors in Discord and Telegram.**
 
 ## 📌 Closing
 
