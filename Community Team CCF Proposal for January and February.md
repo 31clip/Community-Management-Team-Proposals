@@ -132,7 +132,7 @@ The Community Management Team moderates the Qubic Discord server and Telegram ch
 ## 🔍 How We Used Past Funding during the last 2 months ## 
 Due to market conditions and price fluctuations, the Community Team applied its dynamic compensation model to remain within the allocated budget. Despite these adjustments, operations on Discord and Telegram continued uninterrupted, with a full focus on core moderation, governance support, and community safety.
 
-Additionally, with the support of the Administrators, we have redesigned the channel structure, improving navigability and better organizing discussions.
+Additionally, with the support of the Administrators, we have redesigned the Discord channel structure, improving navigability and better organizing discussions.
 
 Funding during this period enabled the Community Management Team to maintain a safe, fair, and engaging environment across the Qubic ecosystem. This included continuous moderation, community engagement, policy enforcement, support for other workgroups, multilingual assistance and documentation across Discord and Telegram.
 
