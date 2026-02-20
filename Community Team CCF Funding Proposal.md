@@ -20,7 +20,7 @@ Send 15.5 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZF
 > **选项 1**：同意，批准 15.1 亿 QUBIC 的预算。
   
 ## 本提案的范围是什么？
-本提案旨在为社区负责人（Community Lead）职位在过渡月份期间提供资金支持。
+本提案旨在为社区团队提供资金支持，使其在三月份继续领取薪资。这将提供额外一个月的时间来确定合适的候选人，随后由该候选人负责提交必要的后续提案。
 
 社区负责人已于2月5日公开宣布其辞去该职位的意向。在过去几周中，已开展了一轮遴选流程；然而，该流程未能成功选出合适人选。接下来将由团队主导启动新的遴选流程，以填补该职位空缺。
 
@@ -118,7 +118,7 @@ Send 15.5 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZF
 </details>
 
 ## What is the scope of this proposal?
-This proposal intends to provide funding during a transition month for the Community Lead role. 
+This proposal intends to provide funding for the Community Team to continue receiving their salaries during the month of March. This will provide an additional month to identify a suitable candidate, who will then be responsible for submitting the necessary follow-up proposals.
 
 The Community Lead publicly announced his intention to step down from the role on February 5th. Over the past few weeks, a selection process has been underway; however, it has not been successful. A new selection process, led by the team, will begin to fill the position. 
 
